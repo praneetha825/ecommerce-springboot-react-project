@@ -1,0 +1,15 @@
+# React
+t-ecom/node_modules/
+t-ecom/dist/
+
+# Spring Boot
+**/target/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Environment files
+.env
